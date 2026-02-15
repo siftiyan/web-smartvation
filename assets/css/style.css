@@ -1478,7 +1478,7 @@ html {
     margin: 5; /* Hilangkan margin */
 }
 
-.body{
+body{
   transform: scale(0.80);
   transform-origin: top left;
   width: calc(100% / 0.80);
