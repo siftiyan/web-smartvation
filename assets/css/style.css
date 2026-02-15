@@ -43,9 +43,7 @@
 ====================================================================
 
 ***/
-html{
-  zoom: 0.90 !important;
-}
+
 
 .banner-one{
 	position:relative;
@@ -1478,5 +1476,11 @@ html {
     font-weight: bold; /* Teks tebal */
     color: #fff; /* Warna teks */
     margin: 5; /* Hilangkan margin */
+}
+
+.body{
+  transform: scale(0.80);
+  transform-origin: top left;
+  width: calc(100% / 0.80);
 }
 
